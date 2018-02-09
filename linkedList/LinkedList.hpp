@@ -113,6 +113,7 @@ bool LinkedList<T>::removeBack()
 	isRemoved=true; 
 	m_size--;
 	}
+	
 	return(isRemoved);
 }	
 
